@@ -45,6 +45,3 @@ The `DataStreamJob` class within the `FlinkCommerce` package serves as the main 
 ## Sink Operations
 - The application includes sink operations for Postgres using JDBC to create tables (`transactions`, `sales_per_category`, `sales_per_day`, `sales_per_month`) and perform insert/update operations.
 - Additionally, it includes an Elasticsearch sink to index transaction data for further analysis.
-
-# Video
-[![Flink Ecommerce Analytics](https://img.youtube.com/vi/deepQRXnniM/0.jpg)](https://youtu.be/deepQRXnniM)
